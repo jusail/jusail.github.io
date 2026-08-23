@@ -7,119 +7,51 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD researcher at the **National Institute of Animal Biotechnology (NIAB), Hyderabad**, working at the intersection of **host–pathogen interactions, immunology and infectious disease biology**.
+I am a PhD researcher at the **National Institute of Animal Biotechnology (NIAB), Hyderabad**, interested in understanding how pathogens interact with their hosts and how these interactions shape the outcome of infection.
 
-My doctoral research focuses on understanding how *Leptospira* infection shapes host immune responses using **integrated transcriptomic and proteomic approaches**, complemented by experimental infection models and molecular validation.
+My doctoral research focuses on **host–pathogen interactions in leptospirosis**, using *Leptospira* infection to investigate how bacterial infection influences host immune responses. My work combines experimental infection models with **transcriptomics, proteomics and molecular validation** to identify host responses and investigate factors that may contribute to disease.
 
-More broadly, I am interested in understanding how bacterial pathogens interact with host cells, alter immune pathways and influence disease outcomes. My research experience spans **infectious disease biology, mammalian cell culture, bacterial infection models, molecular biology, immunological assays, transcriptomics, proteomics and bioinformatics**.
+I am particularly interested in the questions that emerge between **discovery and mechanism**: when infection changes a host pathway, what does that change mean biologically, how is it influenced by the pathogen, and can it be experimentally tested?
 
-## The Question
+# Research Interests
 
-### How does a bacterial pathogen reshape the host immune response during infection?
+My broader interests are in **bacterial infectious diseases, host immunity and pathogen–host interactions**.
 
-My research approaches this question by connecting **systems-level discovery with experimental biology**:
+I am particularly interested in:
 
-**Infection → Host response → Multi-omics → Candidate factors → Experimental validation → Mechanistic insight**
+- **Host–pathogen interactions**
+- **Bacterial infectious diseases**
+- **Infectious disease immunology**
+- **Leptospirosis and *Leptospira* biology**
+- **Host immune responses**
+- **Transcriptomics and proteomics**
+- **Systems immunology and network biology**
+- **Experimental infection biology**
 
-I am particularly interested in moving beyond lists of differentially expressed genes or proteins toward identifying **biologically meaningful host factors and pathways** that can explain host–pathogen interactions.
+I am especially interested in combining **unbiased molecular approaches with experimental biology** to move from patterns observed during infection toward testable biological questions.
 
-## Research Focus
+# Current Research
 
-### Host–Pathogen Interactions
+### Host responses to *Leptospira* infection
 
-Understanding the molecular interactions between bacterial pathogens and host cells, with a particular interest in mechanisms of immune modulation and bacterial persistence.
+My PhD research investigates how *Leptospira* infection alters host immune responses using clinical and experimental models.
 
-### Leptospirosis
+I combine **transcriptomic and proteomic profiling** with systems-level analysis to identify candidate host factors and pathways, followed by experimental validation in infection models.
 
-Investigating host responses during *Leptospira* infection and identifying molecular signatures and host factors associated with disease.
+The central idea behind this work is:
 
-### Multi-omics & Systems Immunology
+**Infection → Host response → Molecular discovery → Candidate factors → Experimental validation**
 
-Integrating **transcriptomics, proteomics and network-based approaches** to identify pathways and candidate regulators involved in infection.
+Rather than treating multi-omics data as an endpoint, I use it as a starting point for asking **which changes matter, why they occur, and how they may influence infection outcomes**.
 
-### Experimental Infection Biology
+# Looking Ahead
 
-Using mammalian cell and bacterial infection models to experimentally investigate candidate host factors identified through systems-level analyses.
+I am interested in continuing to develop as a researcher at the intersection of **host–pathogen biology, immunology and infectious diseases**.
 
-### Infectious Disease & Vaccines
+For my next stage of research, I hope to build on my experience in bacterial infection and multi-omics while developing deeper expertise in **mechanistic host–pathogen biology**.
 
-Interested in translating host–pathogen biology into potential strategies for understanding, preventing and controlling infectious diseases.
+My long-term goal is to understand the molecular and cellular interactions that determine the outcome of infection and to contribute to research that improves our understanding of infectious diseases.
 
-## Current Research
+# Contact
 
-### Decoding host responses to *Leptospira* infection
-
-My PhD research combines clinical and experimental models with transcriptomic and proteomic approaches to investigate host immune responses during leptospiral infection.
-
-The overall research workflow can be viewed as:
-
-**Clinical/experimental infection**
-
-↓
-
-**Host transcriptome + proteome**
-
-↓
-
-**Systems-level analysis**
-
-↓
-
-**Candidate host factors**
-
-↓
-
-**Experimental validation**
-
-↓
-
-**Understanding host–pathogen mechanisms**
-
-This approach allows me to connect large-scale molecular datasets with experimentally testable biological questions.
-
-## Research Journey
-
-My research training has taken me through different areas of biomedical science, gradually leading toward host–pathogen biology and infectious disease research.
-
-**ICMR–National Institute of Virology, Pune**  
-Extracellular microRNA and molecular biology research
-
-↓
-
-**Indian Institute of Technology Kanpur**  
-Molecular biology, animal models and gene therapy-related research
-
-↓
-
-**South Dakota State University, USA**  
-Host–microbiome and pathogen interaction research
-
-↓
-
-**National Institute of Animal Biotechnology, Hyderabad**  
-*Leptospira* infection, host immunity and multi-omics
-
-## Scientific Toolbox
-
-**Experimental Biology**  
-Mammalian cell culture · bacterial infection · macrophage models · qRT-PCR · ELISA · Western blotting · flow cytometry
-
-**Omics & Systems Biology**  
-RNA-seq · transcriptomics · proteomics · differential expression · WGCNA · network analysis
-
-**Bioinformatics**  
-R · UNIX/Linux · BLAST · UniProt · PDB · biological data analysis
-
-## Research Philosophy
-
-### From discovery to mechanism.
-
-I am interested in combining **systems-level approaches with experimental biology** to move from complex molecular datasets toward experimentally testable mechanisms of host–pathogen interaction.
-
-Ultimately, I hope to contribute to a better understanding of infectious diseases by connecting **molecular discovery, host immunity and pathogen biology**.
-
-## Contact
-
-Please feel free to [email me](mailto:jusail@niab.org.in) if you have questions about my research, potential collaborations or research opportunities.
-
-
+Please feel free to [email me](mailto:jusail@niab.org.in) if you would like to discuss my research, collaborations or research opportunities.
