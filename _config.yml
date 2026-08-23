@@ -40,7 +40,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-6666-4887"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Jusail-Cp-2"
   scopus           : # URL
   zotero           : # URL
