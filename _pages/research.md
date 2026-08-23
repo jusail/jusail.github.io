@@ -4,8 +4,6 @@ permalink: /research/
 author_profile: false
 ---
 
-# Research
-
 ## Understanding host–pathogen interactions
 
 My research focuses on understanding how **bacterial pathogens interact with their hosts and shape immune responses during infection**.
