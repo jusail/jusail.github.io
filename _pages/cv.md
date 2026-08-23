@@ -9,56 +9,65 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **Ph.D. in Biotechnology**, National Institute of Animal Biotechnology (NIAB), Hyderabad, India — 2020–Present
+- **Integrated M.Sc. in Life Sciences**, Central University of Tamil Nadu, India — 2014–2019  
+  CGPA: 8.12/10
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research Experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **PhD Scholar**, National Institute of Animal Biotechnology, Hyderabad, India — 2020–Present
+- **Visiting Research Fellow**, South Dakota State University, Brookings, USA — 2022
+- **Project Associate**, Indian Institute of Technology Kanpur, India — 2020
+- **Dissertation Student**, ICMR–National Institute of Virology, Pune, India — 2018–2019
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Research Interests
+
+- Host–pathogen interactions
+- Bacterial infectious diseases
+- Infectious disease immunology
+- Innate immune responses
+- *Leptospira* biology and leptospirosis
+- Mechanistic host–pathogen biology
+- Multi-omics and systems biology
+
+## Awards & Recognition
+
+- **CSIR-UGC NET Fellowship**, Life Sciences — 2020
+- **Best Oral Presentation**, ICiDAR — 2023
+- **Young Researcher Award**, ICiDAR — 2023
+- **Best Poster Presentation**, NIAB Annual Student Symposium — 2022
+
+## Oral Presentations
+
+- **Jusail CP**, et al. *[Presentation title]* — [Conference/Event], [Location], [Year]
+- **Jusail CP**, et al. *[Presentation title]* — [Conference/Event], [Location], [Year]
+
+## Poster Presentations
+
+- **Jusail CP**, et al. *[Poster title]* — [Conference/Event], [Location], [Year]
+- **Jusail CP**, et al. *[Poster title]* — [Conference/Event], [Location], [Year]
+
+## Workshops & Training
+
+- *[Workshop/Training title]* — [Institution/Event], [Year]
+- *[Workshop/Training title]* — [Institution/Event], [Year]
+- *[Workshop/Training title]* — [Institution/Event], [Year]
+
+## Conferences & Scientific Events
+
+- *[Conference/Event name]* — [Location], [Year]
+- *[Conference/Event name]* — [Location], [Year]
+- *[Scientific meeting/event]* — [Location], [Year]
+
+## Scientific Event Organization & Service
+
+- **[Role/Event]** — [Event name], [Institution], [Year]
+- **[Role/Event]** — [Event name], [Institution], [Year]
+
+## Publications
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
