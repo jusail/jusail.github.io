@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About
 
 I am a PhD researcher at the **National Institute of Animal Biotechnology (NIAB), Hyderabad**, working at the intersection of **host–pathogen interactions, immunology and infectious disease biology**.
 
