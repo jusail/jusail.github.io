@@ -22,7 +22,7 @@ repository               : "jusail/jusail.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "JCP.jpg"
   name             : "Jusail CP"
   pronouns         : # example: "He/Him"  
   bio              : "PhD Researcher studying host–pathogen interactions, leptospirosis and host immune responses"
